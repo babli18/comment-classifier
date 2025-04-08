@@ -1,5 +1,4 @@
 Currently in Progress: <br>
-_Goal_ - To classify comments into categories irrespective of sentiment.<br>
 _Data_ - The Dataset contains Googleplay comments of users using Netflix App.<br>
 _Timeline of Data_ - 2018 - 2025<br>
 _Source_- Kaggle<br>
