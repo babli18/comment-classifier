@@ -2,7 +2,7 @@ Currently in Progress: <br>
 _Goal_ - To classify comments into categories irrespective of sentiment.<br>
 _Data_ - The Dataset contains Googleplay comments of users using Netflix App.<br>
 _Timeline of Data_ - 2018 - 2025<br>
-_Source _- Kaggle<br>
+_Source_- Kaggle<br>
 
 _**data_preparation.ipynb**_ - Contains code to clean data including feeatures, missing rows, language classification. 
 I tried translating the language to english using opensource models but it was not upto the accuracy needed and hence change it to classifying as English and Not English.
