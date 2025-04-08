@@ -4,7 +4,7 @@ _Data_ - The Dataset contains Googleplay comments of users using Netflix App.<br
 _Timeline of Data_ - 2018 - 2025<br>
 _Source_- Kaggle<br>
 
-_**data_preparation.ipynb**_ - Contains code to clean data including feeatures, missing rows, language classification. 
+_**data_preparation.ipynb**_ - Contains code to clean data including features, missing rows, language classification. 
 I tried translating the language to english using opensource models but it was not upto the accuracy needed and hence change it to classifying as English and Not English.
 
 _**clustering.ipynb**_ - Contains code for general text preprocessing like lowercase, removal of stop words, emojis etc. 
